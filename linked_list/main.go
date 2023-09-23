@@ -65,4 +65,5 @@ func main() {
 	}
 
 	list.DisplayNodes()
+	printMe("")
 }
